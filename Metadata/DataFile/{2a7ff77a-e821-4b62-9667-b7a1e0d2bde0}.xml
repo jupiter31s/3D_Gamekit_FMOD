@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{2a7ff77a-e821-4b62-9667-b7a1e0d2bde0}">
+		<property name="assetPath">
+			<value>SlinkyEditing/Backups/SlinkyEditing-2026-04-22_115806.rpp-bak</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+	</object>
+</objects>

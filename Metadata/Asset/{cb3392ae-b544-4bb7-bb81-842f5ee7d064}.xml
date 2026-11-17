@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{cb3392ae-b544-4bb7-bb81-842f5ee7d064}">
+		<property name="assetPath">
+			<value>SlinkyEditing/Media - All edited/IMPACTS/peaks/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+	</object>
+</objects>

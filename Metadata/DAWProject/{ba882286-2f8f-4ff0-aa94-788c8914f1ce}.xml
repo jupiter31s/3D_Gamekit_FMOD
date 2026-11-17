@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DAWProject" id="{ba882286-2f8f-4ff0-aa94-788c8914f1ce}">
+		<property name="assetPath">
+			<value>SlinkyEditing/Laser/LaserWorkshop.rpp.link/</value>
+		</property>
+		<property name="dawProjectPath">
+			<value>D:/Ljud bibliotek/Edited/SlinkyEditing/Laser/LaserWorkshop.rpp</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+	</object>
+</objects>

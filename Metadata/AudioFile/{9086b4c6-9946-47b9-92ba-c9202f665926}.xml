@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9086b4c6-9946-47b9-92ba-c9202f665926}">
+		<property name="assetPath">
+			<value>SlinkyEditing/Media - All edited/IMPACTS/TOYMech_Slinky Tambourine Floor Drop_07.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.5141302083333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{28b0725a-99eb-4f73-9330-fdc8b3201111}">
+		<property name="assetPath">
+			<value>SlinkyEditing/Laser/peaks/Laser 2.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+	</object>
+</objects>

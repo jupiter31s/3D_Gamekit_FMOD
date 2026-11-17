@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DAWAsset" id="{cbb03055-9004-4b10-84de-3b6b5104442f}">
+		<property name="assetPath">
+			<value>SlinkyEditing/Laser/LaserWorkshop.rpp.link/Laser 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+		<relationship name="project">
+			<destination>{ba882286-2f8f-4ff0-aa94-788c8914f1ce}</destination>
+		</relationship>
+	</object>
+</objects>

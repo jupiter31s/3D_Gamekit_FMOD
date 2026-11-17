@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{6dabd60b-8c3f-487f-9522-40f0b604e254}">
+		<property name="assetPath">
+			<value>SlinkyEditing/Media - All edited/IMPACTS/peaks/TOYMech_Slinky Suspended Hit Screwdriver_07.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+	</object>
+</objects>

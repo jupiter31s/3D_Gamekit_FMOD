@@ -1,0 +1,843 @@
+<REAPER_PROJECT 0.1 "7.53/win64" 1776851884 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 4
+  ZOOM 4.5193049742294 0 0
+  VZOOMEX 17.96183205 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 48 48
+  SELECTION2 48 48
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {88AF07F4-4262-47DF-80A4-81979A25A5AF}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {61E97D45-D3E9-4C07-8AB3-E57F7C28EFC6}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {2314FB00-C115-4DF3-BF2A-C10328CC7046}
+    NAME IMPACTS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 92 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2314FB00-C115-4DF3-BF2A-C10328CC7046}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {F66337BB-6A7D-4A6B-9A5B-E9866BDD38EC}
+    NAME TOYMech_
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 81 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F66337BB-6A7D-4A6B-9A5B-E9866BDD38EC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {24CE0F45-7A54-4357-8D2E-94DFC5ED39BD}
+    NAME "Slinky Tambourine Floor Drop"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 171 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {24CE0F45-7A54-4357-8D2E-94DFC5ED39BD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.62899193877477
+      SNAPOFFS 0
+      LENGTH 2.87100806122523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 5 1.29296589679146 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {D2319C63-2565-40CB-A65E-CF64E5FDE8FE}
+      IID 1
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 19.09558714054937
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2D5462D-0633-4B74-8D5E-A7DDF105EED8}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+    <ITEM
+      POSITION 12.38436979166667
+      SNAPOFFS 0
+      LENGTH 3.023234375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00421044921985 0 1 0 0 0
+      FADEOUT 5 0.88319689214608 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {7C958849-8642-4B3D-B927-79B62765BB12}
+      IID 6
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 27.85096499344138
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E6C1EC4-7AED-426E-99D0-9F82DE8A13EA}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+    <ITEM
+      POSITION 17.95747624289204
+      SNAPOFFS 0
+      LENGTH 3.54252375710796
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00434669183809 0 1 0 0 0
+      FADEOUT 5 0.88319689214608 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {C53937D4-07E5-4BAC-A54C-75CFE673AEC4}
+      IID 8
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 33.42407144466692
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95745367-8791-4F7A-8960-573396D642D4}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+    <ITEM
+      POSITION 26.600890625
+      SNAPOFFS 0
+      LENGTH 5.399109375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 5 1.92439864977365 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {12081776-DA2D-4A13-A128-F9F0913AE9B4}
+      IID 10
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 42.0674858267747
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CAEAE74-3216-4C61-8D31-00710526F218}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+    <ITEM
+      POSITION 37.382296875
+      SNAPOFFS 0
+      LENGTH 3.617703125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 5 0.88319689214608 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {B972C90F-FBA1-47FC-899D-6315913E8763}
+      IID 12
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 52.8488920767747
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F83CBA1-6773-445B-8ECF-23EFF70C861C}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+    <ITEM
+      POSITION 47.014046875
+      SNAPOFFS 0
+      LENGTH 3.485953125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 5 0.88319689214608 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {78BECF46-30FB-47F0-987A-C16FFDDE14B9}
+      IID 14
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 62.48064207677471
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E7F30C1-E79D-4C9A-B577-1C2F6C347E3D}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+    <ITEM
+      POSITION 56.48366145833334
+      SNAPOFFS 0
+      LENGTH 5.51633854166666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.0057573271939 0 1 0 0 0
+      FADEOUT 5 1.51206936985714 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {2A7C18C1-4F8A-4FD1-A08F-E4CAC7DCE17B}
+      IID 16
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 71.95025666010804
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC15F344-DF80-425C-913E-4968CB02FB3B}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+    <ITEM
+      POSITION 67.44218012395
+      SNAPOFFS 0
+      LENGTH 3.55781987605
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 5 0.88319689214608 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {5126B855-458A-46B2-B7FA-64C9BF67332F}
+      IID 18
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 82.90877532572469
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D08683FC-8BE2-425D-BAEE-55999F372153}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+    <ITEM
+      POSITION 76.94966363300581
+      SNAPOFFS 0
+      LENGTH 4.05033636699419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00676047654116 0 1 0 0 0
+      FADEOUT 5 0.88319689214608 0 5 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {108B5005-7B36-41A6-ADAF-395718EE80AB}
+      IID 20
+      NAME Slinky_Niklas.WAV
+      VOLPAN 1 0 3.795829 -1
+      SOFFS 92.41625883478051
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA798062-9872-4B23-BCA0-0F4A5012ED0B}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Niklas.WAV"
+      >
+    >
+  >
+  <TRACK {7458173D-01FB-41D5-A287-FF687A206E62}
+    NAME "Slinky Suspended Hit Screwdriver"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -2
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7458173D-01FB-41D5-A287-FF687A206E62}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 130.57299479166667
+      SNAPOFFS 0
+      LENGTH 1.75421875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {D4970F64-2D9D-4D8B-934F-FF6A1641F333}
+      IID 25
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 24.57299479166667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37468767-2E3D-47F7-9FE4-5E355AE6E702}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {EF28124C-9AAA-42D2-B734-96D071133F78}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 1.75421875 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 140.42618495455008
+      SNAPOFFS 0
+      LENGTH 4.97280462878325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {2E87E2A1-1CC3-4D43-B395-0A352D2678AA}
+      IID 27
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 34.42618495455008
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EE74E97-4328-4588-9073-969EC8A1A72C}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {48EFE0EC-9832-4206-A2AC-4F7D55F4FC8B}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0.00888796 0.71 0
+        PT 4.97280463 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 152.82680208333335
+      SNAPOFFS 0
+      LENGTH 2.79727604166667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {58399DB4-EA3E-4AB8-90E9-B88452029978}
+      IID 29
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 46.82680208333335
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1971C4DC-D66B-452B-8313-82CD01752641}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {60EC7883-5E6B-4D5E-BABB-417DE872F62B}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 2.79727604 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 163.289078125
+      SNAPOFFS 0
+      LENGTH 1.815015625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {07A0996A-7A79-4FFA-B2A8-C0F4E6A2BE9D}
+      IID 31
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 57.289078125
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE4F21B4-D465-4CA6-8D7A-0CB45C27DA71}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {70826381-12A3-4755-B7DB-1D2AD5EF6D9C}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 1.81501563 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 172.020375
+      SNAPOFFS 0
+      LENGTH 1.944171875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {0D887BD8-2C85-42BE-9409-84960F93660B}
+      IID 33
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 66.020375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B638A28-F921-4CDB-8375-85BCE56176FB}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {C6613DAC-A6A4-40B1-8C6C-4A486159DF4A}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 1.94417187 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 182.222859375
+      SNAPOFFS 0
+      LENGTH 1.830421875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00772064158392 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {29412A24-8226-4D1E-8921-8C943A1FB794}
+      IID 35
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 76.222859375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B71E6E4-92C1-4864-BE0C-4A110EF5E12C}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {B9C3A6A2-8B29-4E28-B5A6-70A6182BEAB2}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 1.83042187 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 190.60385416666668
+      SNAPOFFS 0
+      LENGTH 1.281453125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {155FF780-4D47-4B80-A28F-A0560773E738}
+      IID 37
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 84.60385416666668
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B446484-3895-4EF6-BFB5-9907F9F89105}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {3CF8D892-FA65-41D6-9FC5-EFC9A728DE7E}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 1.28145312 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 199.64491666666669
+      SNAPOFFS 0
+      LENGTH 3.69020804988875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {4D64A97B-6329-4E22-8C68-4BB22F953024}
+      IID 39
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 93.64491666666669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B350365E-7C41-4A90-989A-6BCE60068BF2}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {D4B99B9D-20FD-4595-A7FA-AC9C68ED1C83}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 3.69020805 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 207.77898990565646
+      SNAPOFFS 0
+      LENGTH 3.18573926101022
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {5FF64ACA-DE80-46B4-A60E-0D2F53DDB3DC}
+      IID 39
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 101.77898990565646
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1251515-701A-4D14-BE2C-6C0B7F1094F0}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {71961FD9-E18D-4066-AF63-D9A4A31C5DA8}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 3.18573926 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 218.197515625
+      SNAPOFFS 0
+      LENGTH 2.67291666666669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {76417B84-7623-480A-861E-31EEEFC7CA4F}
+      IID 41
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 112.197515625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A951783C-4BB9-4D07-8E9D-34B989756244}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {01F46B96-954B-42B2-AE66-2E3BCBD17F5F}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 2.67291667 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 228.32641145833335
+      SNAPOFFS 0
+      LENGTH 1.7892864583333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {96BC39EE-883C-4295-84EF-DF4513201C41}
+      IID 43
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 122.32641145833335
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD351C5F-B2F7-40C2-ACF1-5BC5958103A3}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {651F07F5-5619-4A9B-88D4-1D97EF707F4B}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 1.78928646 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 237.567125
+      SNAPOFFS 0
+      LENGTH 2.74777083333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {58E8D3B5-8B47-4183-85DE-FF6FCE4A2881}
+      IID 45
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 131.567125
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {565B73E2-32BA-45FB-B68F-6D5A0FF8BB2B}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {6EFFFEF3-8EDD-46E7-868B-1BCDDEF28F30}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 2.74777083 0.71 0
+      >
+    >
+    <ITEM
+      POSITION 248.058375
+      SNAPOFFS 0
+      LENGTH 2.67446875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.1 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 1
+      IGUID {5181B8EE-2E7B-4827-9FEB-FD0DB5872AF3}
+      IID 47
+      NAME Slinky_Stretched_Niklas.WAV
+      VOLPAN 1 0 1.058185 -1
+      SOFFS 142.058375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01A771F4-3DF6-465E-97B3-631BEF3EC396}
+      <SOURCE WAVE
+        FILE "D:\SCHOOL\Ljud implementation\Inspelade Ljud\Slinky_Stretched_Niklas.WAV"
+      >
+      <PANENV
+        EGUID {A4FA61B7-577E-4469-A739-4C9F67CF2A2B}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        PT 0 0.71 0
+        PT 2.67446875 0.71 0
+      >
+    >
+  >
+>
