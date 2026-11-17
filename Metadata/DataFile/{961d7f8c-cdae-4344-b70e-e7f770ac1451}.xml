@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{961d7f8c-cdae-4344-b70e-e7f770ac1451}">
+		<property name="assetPath">
+			<value>ROCKS/peaks/ROCKImpt_Rock Throw Multiple On Rockpile_MKH416_01.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+	</object>
+</objects>
