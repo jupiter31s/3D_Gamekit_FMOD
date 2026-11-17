@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9d7fb90a-58bf-4663-bb31-c719d5d8e4f0}">
+		<property name="assetPath">
+			<value>grus drag w foot.WAV</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>41.173333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{57d7fe8b-147d-4c94-b91d-ca6309e34feb}</destination>
+		</relationship>
+	</object>
+</objects>
